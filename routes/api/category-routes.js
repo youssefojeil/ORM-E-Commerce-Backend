@@ -31,7 +31,7 @@ router.get('/:id', async (req, res) => {
 
     // check if valid input
     if(!categoryData) {
-      res.status(404).json({ message: 'No Product found with this ID'})
+      res.status(404).json({ message: 'No Category found with this ID'})
     }
 
     res.status(200).json(categoryData);
