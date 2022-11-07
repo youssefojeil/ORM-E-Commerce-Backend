@@ -41,7 +41,7 @@ npm run seed
 ```sh 
 node server.js
 ```
-        or 
+  or 
 ```
 npm start
 ```
