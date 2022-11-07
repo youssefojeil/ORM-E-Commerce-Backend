@@ -21,7 +21,7 @@ npm install
 ## Usage
 Must have [Node.js](https://nodejs.org/en/) downloaded
 
-* Create the database 
+1. Create the database 
 ```
 -- DROP DATABASE
 DROP DATABASE IF EXISTS ecommerce_db;
@@ -30,18 +30,18 @@ DROP DATABASE IF EXISTS ecommerce_db;
 CREATE DATABASE ecommerce_db;
 
 ```
-* Setup your .env file
+2. Setup your .env file
 
-* Seed the database with the following command:
+3. Seed the database with the following command:
 ```
 npm run seed
 ```
 
-* Start the server: 
+4. Start the server with either command: 
 ```sh 
 node server.js
 ```
-or 
+        or 
 ```
 npm start
 ```
