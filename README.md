@@ -47,7 +47,7 @@ npm start
 ```
 
 ## Demo
-[CMS DEMO](https://drive.google.com/file/d/1cAPHm91Qq4UsbUsyOjsdu090NFg9N4uO/view)
+[ORM E-COMMERCE BACKEND DEMO](https://drive.google.com/file/d/1LGyh0NYdOfn2fCixu51OZdTMqobIzFVI/view)
 
 
 ## License
